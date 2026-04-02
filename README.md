@@ -1,6 +1,6 @@
 # About me 
 
-Hi! I'm Adilsultan a Data Analytics student at LIU. I have been building projects since 15 years, started with systems automationos, and since then grew passionate about optimization, AI integrations and product development.
+Hi! I'm Adilsultan a Data Analytics student at LIU. I have been building projects since 15 years, started with systems automations, and since then grew passionate about optimization, AI integrations and product development.
 
 Past experience 👩🏻‍💻:
 
